@@ -9,7 +9,7 @@ output:
 ---
 
 ###Research Question  
-
+  
 *Are NBA teams affected by playing games on back to back days?*  
 Basketball is a demanding sport.  Each NBA team, on average, runs over a combined [16 miles per game](http://stats.nba.com/tracking/#!/team/speed/).  Due to scheduling demands, teams are sometimes forced to play on back to back days.  For example, in this upcoming season, teams will play anywhere from [14 to 20 games](http://www.sbnation.com/nba/2015/8/12/9145811/nba-schedule-2015-back-to-backs-suns-timberwolves) the day after playing a game the previous day.  If playing games on back to back days has an adverse effect on a team's chance to win, then teams with more back-to-backs are at an unfair disadvantage.  When playoff positions are determined by 1 or 2 games, the scheduling decisions made during the off-season could end up costing teams millions of dollars in revenue.  My goal for this project is to determine if such a disadvantage exists.  
 
