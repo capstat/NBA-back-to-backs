@@ -3,7 +3,7 @@ I tried to create a model to predict wins and losses for road teams playing the 
 While I was working, the project kept expanding.  
 And since I was under time constraints I did not organize these files in any coherent way.
 
-To follow along and see what I did to create the data set and the test/train the model,
+To follow along and see what I did to create the data set and test/train the model,
 look at the file called execute_all.R.  This file lists all files I used.
 
 The final project presentation is named nicholas_capofari_slides.html
