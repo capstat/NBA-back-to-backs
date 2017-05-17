@@ -1,0 +1,37 @@
+prove significant win% away and back to back  compare home bbs to away bbs
+
+explain scraping issue with bball reference
+
+compare away % vs bb away%
+
+ttest for avg age and real age
+
+1979-19080 season to 2014-2015
+
+games 20-70
+
+define all variables
+
+include overtime and point diff in variable exploration pyt win%
+day of the week?/month
+point diff
+
+expalin pyt win %
+compare to away and home win%
+
+when comparing teams - use info from last game (except for scheduling info)
+all my stats are stats after that games results
+
+
+check the corrs before starting the model
+
+add in team age
+• Opponent home winning percentage/opponent last 10/home pyt %
+lag some
+
+all star break trip into trip - driving directions
+
+cite everything - basketball ref
+mathletics
+
+further investigation - split data based upon record
